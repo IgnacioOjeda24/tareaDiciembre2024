@@ -30,7 +30,7 @@ Requisitos Técnicos:
 * Paso 2: Se crearon dentro de la carpeta appp como los archivos como __pycache__, __init__.py, database.py, db_utils.py y models.py.
 * Paso 3: Se creó la carpeta data para tener el archivo tareas.db realizado en SQLAlchemy.
 * Paso 4: Se creó el archivo main.py dentro de la carpeta raíz para ejecutar la interfaz gráfica del programa.
-* Paso 5: Se instaló el comando de las librerías y las base de datos en python "pip install streamlit sqlalchemy sqlite3" 
+* Paso 5: Se instaló el comando de las librerías y las base de datos en python "pip install streamlit sqlalchemy" 
 * Paso 6: Se instalaron otros comandos como "pip install pymysql", "pip install psycopg2-binary".
 * Paso 7: Se instalaron las dependencias para crear el entorno virtual "python -m venv venv".
 * Paso 8: Posteriormente a instalar aparece para activar el entorno virtual con el comando ".\venv\Scripts\activate" en windows.
@@ -40,4 +40,13 @@ Requisitos Técnicos:
 Ver la versión de Python que es Python 3.13.1
 
 ![C1](https://github.com/user-attachments/assets/b79a109a-cf18-406c-80d5-486b70c9834c)
+
+Ver la instalación de streamlit sqlalchemy
+
+![C2](https://github.com/user-attachments/assets/e952165c-8a03-40a4-a4cc-04e788abe368)
+
+
+
+
+
 
