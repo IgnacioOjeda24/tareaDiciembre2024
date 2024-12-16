@@ -38,5 +38,6 @@ Requisitos Técnicos:
 
 **Evidencias de fotos**
 Ver la versión de Python que es Python 3.13.1
+
 ![C1](https://github.com/user-attachments/assets/b79a109a-cf18-406c-80d5-486b70c9834c)
 
