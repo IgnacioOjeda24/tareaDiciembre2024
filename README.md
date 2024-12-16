@@ -31,10 +31,10 @@ Requisitos Técnicos:
 * Paso 3: Se creó la carpeta data para tener el archivo tareas.db realizado en SQLAlchemy.
 * Paso 4: Se creó el archivo main.py dentro de la carpeta raíz para ejecutar la interfaz gráfica del programa.
 * Paso 5: Se instaló el comando de las librerías y las base de datos en python "pip install streamlit sqlalchemy" 
-* Paso 6: Se instalaron otros comandos como "pip install pymysql", "pip install psycopg2-binary".
+* Paso 6: Se instalaron otros comandos como "pip install pymysql".
 * Paso 7: Se instalaron las dependencias para crear el entorno virtual "python -m venv venv".
 * Paso 8: Posteriormente a instalar aparece para activar el entorno virtual con el comando ".\venv\Scripts\activate" en windows.
-* Paso 9: Se instalaron estos comandos como: "pip install -r requirements.txt" para ver las dependencias que se instalaron, "pip install streamlit sqlalchemy pandas", "pip install pytest pylint", "pip list"
+* Paso 9: Se instalaron estos comandos como: "pip install -r requirements.txt" para ver las dependencias que se instalaron, "pip install pytest pylint", "pip list"
 
 **Evidencias de fotos**
 Ver la versión de Python que es Python 3.13.1
@@ -44,6 +44,45 @@ Ver la versión de Python que es Python 3.13.1
 Ver la instalación de streamlit sqlalchemy
 
 ![C2](https://github.com/user-attachments/assets/e952165c-8a03-40a4-a4cc-04e788abe368)
+
+Segunda parte.
+
+![C3](https://github.com/user-attachments/assets/c6f4291a-123d-4781-b259-0fa1478309c2)
+
+Se instala el comando pip install pymysql.
+
+![C4](https://github.com/user-attachments/assets/dc63a4be-3795-43ca-b232-749e3e75fce0)
+
+Se ejecutó el comando 
+
+![C5](https://github.com/user-attachments/assets/e048f4a3-bb18-47c5-a3d0-a3770c82a49c)
+
+Su resultado es:
+
+![C6](https://github.com/user-attachments/assets/5f0554a9-6468-416c-93a4-0f7f16432a9c)
+
+Se ejecuta el comando  .\venv\Scripts\activate
+
+![C7](https://github.com/user-attachments/assets/4ccb51b1-7fec-45c6-b202-de06e7375bcd)
+
+Listas de librerías instaladas.
+
+![C8](https://github.com/user-attachments/assets/a25bf0c3-d600-4976-8ca4-3a122d29f795)
+
+Parte 2
+
+![C9](https://github.com/user-attachments/assets/2cfc8a63-20c1-4465-b812-0b77ad6242a2)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
