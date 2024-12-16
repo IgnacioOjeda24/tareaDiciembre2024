@@ -36,4 +36,7 @@ Requisitos Técnicos:
 * Paso 8: Posteriormente a instalar aparece para activar el entorno virtual con el comando ".\venv\Scripts\activate" en windows.
 * Paso 9: Se instalaron estos comandos como: "pip install -r requirements.txt" para ver las dependencias que se instalaron, "pip install streamlit sqlalchemy pandas", "pip install pytest pylint", "pip list"
 
-![image](https://github.com/user-attachments/assets/35e8e6d9-4b4e-4a60-81a8-69ac8441aadb)
+**Evidencias de fotos**
+Ver la versión de Python que es Python 3.13.1
+![C1](https://github.com/user-attachments/assets/b79a109a-cf18-406c-80d5-486b70c9834c)
+
