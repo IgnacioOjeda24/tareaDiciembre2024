@@ -73,6 +73,39 @@ Parte 2
 
 ![C9](https://github.com/user-attachments/assets/2cfc8a63-20c1-4465-b812-0b77ad6242a2)
 
+Pantallas.
+
+Inicio y se muestra las tareas actuales.
+
+![Capture0](https://github.com/user-attachments/assets/7e6357bf-eda2-472a-a54b-c32f8cea7293)
+
+Agregando una tarea.
+
+![C11](https://github.com/user-attachments/assets/2965d351-ab29-4fcb-b0d7-a64219dc0967)
+
+Se agregó la tarea correctamente.
+
+![Capture001](https://github.com/user-attachments/assets/27c6fd32-33a4-4b08-8665-bda8d05a8147)
+
+Se eliminó las tareas completadas.
+
+![C13](https://github.com/user-attachments/assets/a45a08dd-bba3-4919-ae41-79f7cdbdf803)
+
+Exportado correctamente
+
+![C14](https://github.com/user-attachments/assets/74180fdd-5914-43a3-bff1-13d830058269)
+
+Importado correctamente.
+
+![Capture001](https://github.com/user-attachments/assets/c6066e91-30a2-4139-8ffd-ad0cf47e55e1)
+
+
+
+
+
+
+
+
 
 
 
