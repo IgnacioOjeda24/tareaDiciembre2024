@@ -99,6 +99,11 @@ Importado correctamente.
 
 ![Capture001](https://github.com/user-attachments/assets/c6066e91-30a2-4139-8ffd-ad0cf47e55e1)
 
+Estructura de las carpetas y los archivos.
+
+![Capture001](https://github.com/user-attachments/assets/3d34ac49-bec0-4591-ab0d-5ad80f87a4fa)
+
+
 
 
 
